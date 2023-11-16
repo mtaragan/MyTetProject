@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef7ff19e-8dd3-4f43-b899-4b14446a514b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Y8BXBx05pNFdKpNHSGXVCImYi3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.12640798" />
+    <property name="project.structure.side.proportion" value="0.2606264" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project1.Main" />
+      <module name="MyTetProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyTetProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef7ff19e-8dd3-4f43-b899-4b14446a514b" name="Default Changelist" comment="" />
+      <created>1699897363852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699897363852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="82" key="#Project_Structure" timestamp="1699910936067">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="320" y="82" key="#Project_Structure/0.25.1440.790@0.25.1440.790" timestamp="1699910936067" />
+    <state width="435" height="440" key="DebuggerActiveHint" timestamp="1699993242807">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="435" height="440" key="DebuggerActiveHint/0.25.1440.790@0.25.1440.790" timestamp="1699993242807" />
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1699996843130">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1699996843130" />
+    <state width="1398" height="226" key="GridCell.Tab.0.center" timestamp="1699996843128">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1699996843128" />
+    <state width="1398" height="226" key="GridCell.Tab.0.left" timestamp="1699996843127">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1699996843127" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right" timestamp="1699996843129">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1699996843129" />
+    <state width="1398" height="226" key="GridCell.Tab.1.bottom" timestamp="1699996844230">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.1.bottom/0.25.1440.790@0.25.1440.790" timestamp="1699996844230" />
+    <state width="1398" height="226" key="GridCell.Tab.1.center" timestamp="1699996844229">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.1.center/0.25.1440.790@0.25.1440.790" timestamp="1699996844229" />
+    <state width="1398" height="226" key="GridCell.Tab.1.left" timestamp="1699996844228">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.1.left/0.25.1440.790@0.25.1440.790" timestamp="1699996844228" />
+    <state width="1398" height="226" key="GridCell.Tab.1.right" timestamp="1699996844229">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.1.right/0.25.1440.790@0.25.1440.790" timestamp="1699996844229" />
+    <state x="208" y="25" key="SettingsEditor" timestamp="1699927385825">
+      <screen x="0" y="25" width="1440" height="790" />
+    </state>
+    <state x="208" y="25" key="SettingsEditor/0.25.1440.790@0.25.1440.790" timestamp="1699927385825" />
+    <state x="123" y="114" key="new project wizard" timestamp="1700098778839">
+      <screen x="0" y="25" width="1440" height="791" />
+    </state>
+    <state x="123" y="114" key="new project wizard/0.25.1440.791@0.25.1440.791" timestamp="1700098778839" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/project1/HttpUtil.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/project1/HttpUtil.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/project1/HttpUtilAlbum.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/project1/HttpUtilAlbum.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/project1/HttpUtilAlbum.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/project1/HttpUtilAlbum.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
