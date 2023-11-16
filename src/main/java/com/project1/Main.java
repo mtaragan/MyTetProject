@@ -2,7 +2,7 @@ package com.project1;
 
 public class Main {
     public static void main(String[] args) throws Exception{
-        System.out.println("============ start1 =33333===");
+        System.out.println("============ start1 =33333444===");
 
         callHttpRequests();
     }
@@ -12,6 +12,6 @@ public class Main {
 
         HttpUtilAlbum.getAlbum();
 
-        HttpUtilAlbum.createAlbum();
+        //HttpUtilAlbum.createAlbum();
     }
 }
